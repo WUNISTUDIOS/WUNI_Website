@@ -1,18 +1,18 @@
 
 /* NAV BAR */
 
-.nav{
+.navv{
     text-decoration: none;
     list-style: none;
     margin: 150px;
     text-align: center;
 }
 
-.nav li{
+.navv li{
     display: inline;
 }
 
-.nav a{
+.navv a{
     display: inline-block;
 }
 
