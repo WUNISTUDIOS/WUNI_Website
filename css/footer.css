@@ -1,8 +1,9 @@
 
 #footer{
-    position: absolute;
-    right: 43%;
-    top: 85%;
+    position: fixed;
+    left: 0;
+    bottom: 10%;
+    width: 100%;
     background-color: transparent;
     color: white;
     text-align: center;
